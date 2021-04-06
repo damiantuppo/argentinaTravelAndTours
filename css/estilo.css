@@ -1,3 +1,13 @@
+/************************************************************************
+ *                INDEX.HTML
+ *
+ *          MENU HAMBURGUESA RESPONSIVE
+ *          (HASTA LINEA DE CODIGO 364)
+ *
+ ************************************************************************/
+
+
+
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
 html,
 body {
@@ -72,7 +82,8 @@ body {
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url(https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0f6908fa5e81286213c7211276e6b3d&auto=format&fit=crop&w=1500&q=80);
+    background-image: url(../media/buenosAires/colon-theater-2389927_1920.jpg);
+    /*background-image: url(https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0f6908fa5e81286213c7211276e6b3d&auto=format&fit=crop&w=1500&q=80);*/
     background-position: center top;
 	background-size:cover;
 }
@@ -141,7 +152,6 @@ body {
 
 
 /* Animation */
-/* Inspiration taken from Dicson https://codemyui.com/simple-hamburger-menu-x-mark-animation/ */
 
 .navTrigger {
     cursor: pointer;
@@ -352,7 +362,78 @@ body {
 		padding:2%;
 	}
 }
+/* FIN MENU*/
 
 
 
 
+
+/************************************************************************
+ *                ITINERARIOS.HTML
+ *
+ *          GALERIA DE IMAGENES CON BLUR, PARA IR AL ITINERARIO
+ *
+ ************************************************************************/
+
+.contenedorGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1em;
+ }
+  
+  
+/* hover styles */
+.textoImg {
+  position: relative;
+}
+  
+.imagenGaleria {
+    line-height: 0;
+    overflow: hidden;
+}
+  
+.imagenGaleria img {
+    filter: blur(0px);
+    transition: filter 0.3s ease-in;
+    transform: scale(1.1);
+}
+  
+.tituloImg {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    z-index: 1;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity .5s;
+    background: rgba(90,0,10,0.4);
+    color: white;
+    
+    /* position the text in t’ middle*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.textoImg:hover .tituloImg {
+    opacity: 1;
+}
+  
+.textoImg:hover .imagenGaleria img {
+    filter: blur(2px);
+}
+  
+  
+/* for touch screen devices */
+@media (hover: none) { 
+    .location-title {
+      opacity: 1;
+ }
+    .imagenGaleria img {
+      filter: blur(2px);
+   }
+ }
