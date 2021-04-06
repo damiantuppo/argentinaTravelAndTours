@@ -1,0 +1,1290 @@
+[
+    {
+        "codigo" : 1,
+        "categoria": "",
+        "dias": 4,
+        "destinos": "Buenos Aires",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio día ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Día libre para actividades personales. Se sugiere realizar tours opcionales, como la excursión al Tigre y Delta del Paraná, o la Excursión Fiesta Gaucha con almuerzo."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 2,
+        "categoria": "",
+        "dias": 6,
+        "destinos": "Buenos Aires / Iguazú",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio día ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Iguazú",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Iguazú. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "Iguazú",
+                    "subtitulo": "Cataratas lado argentino",
+                    "detalle": "Desayuno. Por la mañana comienza la excursión de día completo para visitar las Cataratas del lado Argentino. Localizadas en el corazón del Parque Nacional de Iguazú y declaradas Patrimonio de la Humanidad, este paseo proporciona a sus visitantes un mayor contacto con la flora y fauna del lugar, se recorren las diferentes pasarelas dentro del Parque Nacional para lograr obtener las increíbles vistas de las más de 200 cascadas. Al medio día tendrás tiempo para almorzar y tomar la navegación opcional “Gran Aventura”, que recorre las cataratas desde cerca. En la tarde, tomarás el tren que lleva a la más grande de las atracciones del parque: la Garganta del Diablo. Posteriormente serás trasladado de vuelta al hotel."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "Iguazú / Buenos Aires",
+                    "subtitulo": "Cataratas lado brasilero",
+                    "detalle": "Desayuno. Por la mañana realizarás una excursión de medio día al Lado Brasileño de las Cataratas del Iguazú donde obtendrás vistas panorámicas de las cataratas visitadas el día anterior. Por la tarde, serás trasladado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto, y traslado en servicio privado hasta el Hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "Iguazú / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 3,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Ushuaia",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Ushuaia",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Ushuaia. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 4,
+                    "titulo": "Ushuaia",
+                    "subtitulo": "Parque nacional Tierra del Fuego",
+                    "detalle": "Desayuno. Por la mañana salida en excursión de medio día visitando el Parque Nacional Tierra del Fuego. Dentro del Parque descubriremos los lugares más emblemáticos rodeados por bosques, montañas y paisajes sin igual. Visitaremos el Lago Roca o Acigami, un deslumbrante Lago de origen Glaciar, ubicado entre la frontera entre Argentina y Chile, en ese sitio realizaremos una caminata corta (trekking), bordeando el Lago y el Rio Lapataia. El último lugar para visitar, es hasta el final del camino la Bahía Lapataia, donde termina la Ruta Núm. 3 ruta panamericana. El lugar más Austral que podemos alcanzar juntos con nuestro guía, descubriremos todos los secretos del Parque, mientras disfrutamos la sensación de estar en el Fin del Mundo."
+                }
+                ,
+                {
+                    "dia": 5,
+                    "titulo": "Ushuaia",
+                    "subtitulo": "Navegación Canal Beagle",
+                    "detalle": "Desayuno. Al embarcarse en este catamarán, se obtendrá una panorámica impagable de la ciudad y su puerto. Sus recorridos pueden abarcar: la isla de los pájaros y la lobería, hábitat de los lobos marinos; la pingüinera, donde se observará varios tipos de pingüinos y también nos acercamos al faro LES ECLAIREURS, más conocido como el Faro del fin del mundo, típica postal de Ushuaia, incluyendo las islas Bridge e Isla Karelo."
+                }
+                ,
+                {
+                    "dia": 6,
+                    "titulo": "Ushuaia / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 7,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 4,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Calafate",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Calafate. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 4,
+                    "titulo": "El Calafate",
+                    "subtitulo": "Parque nacional los glaciares",
+                    "detalle": "Desayuno. Salida por la mañana hacia  la ruta que bordea el Lago Argentino hasta alcanzar el Parque Nacional Los Glaciares, el mismo debe su nombre a la presencia de numerosos glaciares que se originan en el gran Campo de Hielo Patagónico, (el manto de hielo más grande del mundo después de la Antártida) el cual ocupa casi la mitad del Parque. Continuando camino se llega a las pasarelas y mirador del Glaciar Perito Moreno. Se puede realizar en forma opcional el Safari Náutico, que proporciona al visitante, en una corta navegación, una increíble experiencia bordeando la misma pared de hielo del Glaciar (duración una hora). Almuerzo (no incluido) en la unidad turística y tiempo libre. Por la tarde regreso a El Calafate. Para un tour de aventura se puede realizar el Big Ice o Minitrekking, los cuales permiten realizar una caminata sobre el glaciar."
+                }
+                ,
+                {
+                    "dia": 5,
+                    "titulo": "El Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Día Libre para realizar excursiones opcionales. Te recomendamos una excursión a alguna de las típicas estancias como Nibepo Aike o Estancia Cristina."
+                }
+                ,
+                {
+                    "dia": 6,
+                    "titulo": "Calafate / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 7,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 5,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Puerto Madryn",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Trelew / Puerto Madryn",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado en servicio privado al aeropuerto para tomar el vuelo con destino a Trelew. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 4,
+                    "titulo": "Puerto Madryn",
+                    "subtitulo": "Península Valdés",
+                    "detalle": "Desayuno Comenzará la excursión de día completo a Península Valdés. El pequeño y pintoresco poblado de Puerto Pirámide ofrece la posibilidad de embarcarse en una navegación de avistaje de ballenas (de mayo a septiembre). Luego del avistaje realizarás distintas paradas en puntos estratégicos de la península donde podrás observar lobos marinos, guanacos, pingüinos y orcas entre otros animales marinos. Regreso al Hotel por la tarde. Posibilidad de almorzar en restaurante típico (opcional)."
+                }
+                ,
+                {
+                    "dia": 5,
+                    "titulo": "Puerto Madryn",
+                    "subtitulo": "Punta Tombo",
+                    "detalle": "Luego del desayuno, comenzará la excursión de día completo a la Pingüinera de Punta Tombo. Situada al sur de Puerto Madryn, Punta Tombo es la mayor colonia de Pingüinos de Magallanes de Sudamérica, con más de 200,000 parejas reproductivas que entre Septiembre y Febrero crían a sus crías en esta reserva. Podrás caminar entre estas graciosas criaturas. Se hará una breve visita de Trelew y Gaiman antes de regresar al hotel por la tarde."
+                }
+                ,
+                {
+                    "dia": 6,
+                    "titulo": "Puerto Madryn / Trelew / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 7,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 6,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Mendoza",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Mendoza",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Mendoza. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "Mendoza",
+                    "subtitulo": "Excursión alta montaña",
+                    "detalle": "Desayuno. Por la mañana se realizará la excursión hacia Alta Montaña. La misma tiene una duración de jornada completa. El recorrido comienza por Ruta Nacional 7, visitando pueblos de Montaña como Potrerillos, Uspallata, Penitentes, Puente del Inca y Las Cuevas. A poca distancia de la frontera, se encuentra el mirador natural que permite apreciar el esplendor del cerro Aconcagua. La provincia de Mendoza se caracteriza por tener buen clima todo el año, sin embargo, te recomendamos llevar siempre una campera y buzo abrigado, aunque haya temperaturas elevadas y sol, debido a que, en el recorrido de Alta Montaña el frío de sus elevadas cumbres se puede intensificar de un momento a otro. Por la tarde regreso al hotel."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "Mendoza",
+                    "subtitulo": "Circuito de Bodegas",
+                    "detalle": "Desayuno. Y mañana libre para realizar actividades a elección, por la tarde lo pasaran a buscar por el hotel para realizar la visita a las bodegas. Visitarás dos bodegas, ya sea en la zona de Luján o bien de Maipú, donde podrás conocer el proceso de elaboración de vino industrial y artesanal. También visitarás la fábrica de aceite de oliva y la iglesia de la Carrodilla, donde se encuentra la virgen patrona de los viñedos. Las posibles bodegas a visitar son: Bodegas López, Bodega Vistandes, Bodega Dante Robino, Bodega Weinert o Cavas de don Arturo. Dependerá de la disponibilidad de cada una de ellas. Y también visitarás la aceitera PASRAI. La excursión tiene una duración de mediodía comenzando la misma alrededor de las 14.30 h y regresando por la tarde – noche al hotel para luego cenar y descansar."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "Mendoza / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 7,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 7,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Bariloche",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Bariloche",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a San Carlos de Bariloche. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 4,
+                    "titulo": "Bariloche",
+                    "subtitulo": "Isla Victoria y Bosque de Arrayanes",
+                    "detalle": "Desayuno. Partiendo desde Puerto Pañuelo, tras una hora de navegación, se arriba a la península de Quetrihue, en donde se encuentra el legendario bosque de arrayanes. Ubicado dentro del Parque Nacional Los Arrayanes, los esperan 12 kilómetros de sendero con paisajes únicos. Luego de recorrer este escenario incomparable, se navega hacia Puerto Anchorena, en la Isla Victoria, donde encontrarás una flora de gran atractivo visual. Recorriendo los senderos de esta hermosa isla se llega hasta Playa del Toro, en donde se pueden observar las pinturas rupestres hechas por los pueblos originarios que habitaban en esta zona."
+                }
+                ,
+                {
+                    "dia": 5,
+                    "titulo": "Bariloche",
+                    "subtitulo": "Circuito chico",
+                    "detalle": "Desayuno. El circuito chico es un recorrido de medio día permite conocer la ciudad y sus alrededores, entre ellos, la península de San Pedro y el Puerto Bueno. Luego de recorrer la península, se arriba a la Villa Llao Llao, en el km 23. Allí encontrarás un mirador excepcional y otros grandes atractivos de la zona: el Hotel Llao Llao, con su imponente marco natural, el parque municipal Llao Llao, donde podrás realizar tranquilas caminatas por el bosque y la capilla San Eduardo. Muy cerca de ese lugar se encuentra Puerto Pañuelo, punto de partida de las excursiones lacustres. Nos detendremos en Cerro Campanario para subir con aerosillas hasta la cumbre y disfrutar de la mejor vista panorámica de la región, de 360 grados. Ya dejando atrás la península, en el km 33, el camino cruza el puente del arroyo Angostura. Desde este lugar parte un desvío que permite continuar hacia la zona de Bahía López, donde se imponen los paredones rocosos de los cerros López y Capilla."
+                }
+                ,
+                {
+                    "dia": 6,
+                    "titulo": "Bariloche / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 7,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 8,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / salta / Jujuy",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio día ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Salta",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 4,
+                    "titulo": "Salta",
+                    "subtitulo": "Cafayate",
+                    "detalle": "Desayuno. Por la mañana salida hacia Cafayate desde Salta. Se toma dirección hacia el sur por las impresionantes tierras de formaciones rocosas y acantilados teñidos de rojo. Luego se continúa por la ruta Nacional 68 llegando a Cafayate, la ciudad más joven de los Valles Calchaquíes reconocida a nivel internacional por las cepas de sus vinos. Después, nos dirigimos a Quebrada de las Conchas, un cañón con rocas con formas curiosas, erosionadas durante siglos por el paso del agua y los fuertes vientos. Se puede visitar un viñedo y degustar algunos de los mejores vinos que ofrece la región, incluido el Torrontés. Tras la cata, se regresa de nuevo a Salta por la Quebrada de las Conchas. Noche en Salta."
+                }
+                ,
+                {
+                    "dia": 5,
+                    "titulo": "Salta / Jujuy / Salta",
+                    "subtitulo": "Quebrada de Humahuaca",
+                    "detalle": "Desayuno. Conoceremos la Quebrada de Humahuaca, declarado Patrimonio Natural y Cultural de la Humanidad por la UNESCO, título que se adjudicó por su increíble belleza natural y coloridos cerros. Disfrutaremos los singulares paisajes de esta quebrada, y visitaremos el pueblo de Purmamarca, donde tendremos una privilegiada vista del Cerro de los Siete Colores y la feria de artesanos. Además, visitaremos el pueblo de Tilcara y las ruinas del Pucará de Tilcara. Continuaremos viaje por ruta 9, donde arribaremos a la ciudad de Humahuaca, conocida por sus angostas calles y sus particulares casas, de paredes de adobe, techos de caña y barro. El pueblo de Humahuaca, corazón mismo de la quebrada, está lleno de atractivos naturales, históricos y culturales. Luego de recorrer el pueblo de Humahuaca se regresa a San Salvador de Jujuy, donde se realiza una breve visita a la ciudad, la Catedral, Plaza Belgrano, pasando por el dique la Ciénaga, dique Campo Alegre, La Caldera, Vaqueros. Regreso a Salta. "
+                }
+                ,
+                {
+                    "dia": 6,
+                    "titulo": "Salta / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 7,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 9,
+        "categoria": "",
+        "dias": 9,
+        "destinos": "Buenos Aires / salta y Jujuy / Iguazu",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Salta",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre"
+                }
+                ,
+                {
+                    "dia": 4,
+                    "titulo": "Cafayate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Por la mañana salida hacia Cafayate desde Salta. Se toma dirección hacia el sur por las impresionantes tierras de formaciones rocosas y acantilados teñidos de rojo. Luego se continúa por la ruta Nacional 68 llegando a Cafayate, la ciudad más joven de los Valles Calchaquíes reconocida a nivel internacional por las cepas de sus vinos. Después, nos dirigimos a Quebrada de las Conchas, un cañón con rocas con formas curiosas, erosionadas durante siglos por el paso del agua y los fuertes vientos. Se puede visitar un viñedo y degustar algunos de los mejores vinos que ofrece la región, incluido el Torrontés. Tras la cata, se regresa de nuevo a Salta por la Quebrada de las Conchas. "
+                }
+                ,
+                {
+                    "dia": 5,
+                    "titulo": "Salta / Jujuy / Salta",
+                    "subtitulo": "Quebrada de Humahuaca",
+                    "detalle": "Desayuno. Conoceremos la Quebrada de Humahuaca, declarado Patrimonio Natural y Cultural de la Humanidad por la UNESCO, título que se adjudicó por su increíble belleza natural y coloridos cerros. Disfrutaremos los singulares paisajes de esta quebrada, y visitaremos el pueblo de Purmamarca, donde tendremos una privilegiada vista del Cerro de los Siete Colores y la feria de artesanos. Además, visitaremos el pueblo de Tilcara y las ruinas del Pucará de Tilcara. Continuaremos viaje por ruta 9, donde arribaremos a la ciudad de Humahuaca, conocida por sus angostas calles y sus particulares casas, de paredes de adobe, techos de caña y barro. De sur a norte, la Quebrada nace en un Volcán, donde abruptamente las montañas abandonan el verde y dan paso a serranías ocres y marrones. El pueblo de Humahuaca, corazón mismo de la quebrada, está lleno de atractivos naturales, históricos y culturales. Luego de recorrer el pueblo de Humahuaca se regresa a San Salvador de Jujuy, donde se realiza una breve visita a la ciudad, la Catedral, Plaza Belgrano, pasando por el dique la Ciénaga, dique Campo Alegre, La Caldera, Vaqueros. Regreso a Salta. Noche en Salta."
+                }
+                ,
+                {
+                    "dia": 6,
+                    "titulo": "Salta / Iguazu",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Iguazu. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                }
+                ,
+                {
+                    "dia": 7,
+                    "titulo": "Iguazú",
+                    "subtitulo": "Cataratas lado argentino",
+                    "detalle": "Desayuno. Por la mañana comienza la excursión de día completo para visitar las Cataratas del lado Argentino. Localizadas en el corazón del Parque Nacional de Iguazú y declaradas Patrimonio de la Humanidad, este paseo proporciona a sus visitantes un mayor contacto con la flora y fauna del lugar, se recorren las diferentes pasarelas dentro del Parque Nacional para lograr obtener las increíbles vistas de las más de 200 cascadas. Al medio día tendrás tiempo para almorzar y tomar la navegación opcional “Gran Aventura”, que recorre las cataratas desde cerca. En la tarde, tomarás el tren que lleva a la más grande de las atracciones del parque: la Garganta del Diablo. Posteriormente serás trasladado de vuelta al hotel."
+                },
+                {
+                    "dia": 8,
+                    "titulo": "Iguazú / Buenos Aires",
+                    "subtitulo": "Cataratas lado brasilero",
+                    "detalle": "Desayuno. Por la mañana realizarás una excursión de medio día al Lado Brasileño de las Cataratas del Iguazú donde obtendrás vistas panorámicas de las cataratas visitadas el día anterior. Por la tarde, serás trasladado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto, y traslado en servicio privado hasta el Hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 9,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 10,
+        "categoria": "",
+        "dias": 9,
+        "destinos": "Buenos Aires / Calafate / Iguazu",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Calafate. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "El Calafate",
+                    "subtitulo": "Parque nacional los glaciares",
+                    "detalle": "Desayuno. Salida por la mañana hacia la ruta que bordea el Lago Argentino hasta alcanzar el Parque Nacional Los Glaciares, el mismo debe su nombre a la presencia de numerosos glaciares que se originan en el gran Campo de Hielo Patagónico, (el manto de hielo más grande del mundo después de la Antártida) el cual ocupa casi la mitad del Parque. Continuando camino se llega a las pasarelas y mirador del Glaciar Perito Moreno. Se puede realizar en forma opcional el Safari Náutico, que proporciona al visitante, en una corta navegación, una increíble experiencia bordeando la misma pared de hielo del Glaciar (duración una hora). Almuerzo (no incluido) en la unidad turística y tiempo libre. Por la tarde regreso a El Calafate. Para un tour de aventura se puede realizar el Big Ice o Minitrekking, los cuales permiten realizar una caminata sobre el glaciar."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "El Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Día Libre para realizar excursiones opcionales. Te recomendamos una excursión a alguna de las típicas estancias como Nibepo Aike o Estancia Cristina."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "Calafate / Iguazu",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Iguazu. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 7,
+                    "titulo": "Iguazú",
+                    "subtitulo": "Cataratas lado argentino",
+                    "detalle": "Desayuno. Por la mañana comienza la excursión de día completo para visitar las Cataratas del lado Argentino. Localizadas en el corazón del Parque Nacional de Iguazú y declaradas Patrimonio de la Humanidad, este paseo proporciona a sus visitantes un mayor contacto con la flora y fauna del lugar, se recorren las diferentes pasarelas dentro del Parque Nacional para lograr obtener las increíbles vistas de las más de 200 cascadas. Al medio día tendrás tiempo para almorzar y tomar la navegación opcional “Gran Aventura”, que recorre las cataratas desde cerca. En la tarde, tomarás el tren que lleva a la más grande de las atracciones del parque: la Garganta del Diablo. Posteriormente serás trasladado de vuelta al hotel."
+                },
+                {
+                    "dia": 8,
+                    "titulo": "Iguazú / Buenos Aires",
+                    "subtitulo": "Cataratas lado brasilero",
+                    "detalle": "Desayuno. Por la mañana realizarás una excursión de medio día al Lado Brasileño de las Cataratas del Iguazú donde obtendrás vistas panorámicas de las cataratas visitadas el día anterior. Por la tarde, serás trasladado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto, y traslado en servicio privado hasta el Hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "Buenos Aires",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+
+            ]
+
+    },
+    {
+        "codigo" : 11,
+        "categoria": "",
+        "dias": 9,
+        "destinos": "Buenos Aires / Ushuaia / Iguazu",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Ushuaia",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Ushuaia. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "Ushuaia",
+                    "subtitulo": "Parque nacional Tierra del Fuego",
+                    "detalle": "Desayuno. Por la mañana salida en excursión de medio día visitando el Parque Nacional Tierra del Fuego. Pasando por Río Pipo, Bahía Ensenada, Lago Roca, Laguna Verde, Laguna Negra, y zona de Lapataia. Dentro del Parque descubriremos los lugares más emblemáticos rodeados por bosques, montañas y paisajes sin igual. Visitaremos el Lago Roca o Acigami, un deslumbrante Lago de origen Glaciar, ubicado entre la frontera entre Argentina y Chile, en ese sitio realizaremos una caminata corta (trekking), bordeando el Lago y el Rio Lapataia. El último lugar para visitar, es hasta el final del camino la Bahía Lapataia, donde termina la Ruta Núm. 3 ruta panamericana. El lugar más Austral que podemos alcanzar juntos con nuestro guía, descubriremos todos los secretos del Parque, mientras disfrutamos la sensación de estar en el Fin del Mundo."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "Ushuaia",
+                    "subtitulo": "Navegación Canal Beagle",
+                    "detalle": "Desayuno. Al embarcarse en este catamarán, se obtendrá una panorámica impagable de la ciudad y su puerto. Sus recorridos pueden abarcar: la isla de los pájaros y la lobería, hábitat de los lobos marinos; la pingüinera, donde se observará varios tipos de pingüinos y también nos acercamos al faro LES ECLAIREURS, más conocido como el Faro del fin del mundo, típica postal de Ushuaia, incluyendo las islas Bridge e Isla Karelo."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "Ushuaia / Iguazu",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 7,
+                    "titulo": "Iguazú",
+                    "subtitulo": "Cataratas lado argentino",
+                    "detalle": "Desayuno. Por la mañana comienza la excursión de día completo para visitar las Cataratas del lado Argentino. Localizadas en el corazón del Parque Nacional de Iguazú y declaradas Patrimonio de la Humanidad, este paseo proporciona a sus visitantes un mayor contacto con la flora y fauna del lugar, se recorren las diferentes pasarelas dentro del Parque Nacional para lograr obtener las increíbles vistas de las más de 200 cascadas. Al medio día tendrás tiempo para almorzar y tomar la navegación opcional “Gran Aventura”, que recorre las cataratas desde cerca. En la tarde, tomarás el tren que lleva a la más grande de las atracciones del parque: la Garganta del Diablo. Posteriormente serás trasladado de vuelta al hotel."
+                },
+                {
+                    "dia": 8,
+                    "titulo": "Iguazú / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Por la mañana realizarás una excursión de medio día al Lado Brasileño de las Cataratas del Iguazú donde obtendrás vistas panorámicas de las cataratas visitadas el día anterior. Por la tarde, serás trasladado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto, y traslado en servicio privado hasta el Hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 9,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 12,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Mendoza / Bariloche ",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Mendoza",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Mendoza. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "Mendoza",
+                    "subtitulo": "Excursión alta montaña",
+                    "detalle": "Desayuno. Por la mañana se realizará la excursión hacia Alta Montaña. La misma tiene una duración de jornada completa. El recorrido comienza por Ruta Nacional 7, visitando pueblos de Montaña como Potrerillos, Uspallata, Penitentes, Puente del Inca y Las Cuevas. A poca distancia de la frontera, se encuentra el mirador natural que permite apreciar el esplendor del cerro Aconcagua. La provincia de Mendoza se caracteriza por tener buen clima todo el año, sin embargo, te recomendamos llevar siempre una campera y buzo abrigado aunque haya temperaturas elevadas y sol, debido a que, en el recorrido de Alta Montaña el frío de sus elevadas cumbres se puede intensificar de un momento a otro. Por la tarde regreso al hotel."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "Mendoza",
+                    "subtitulo": "Circuito de Bodegas",
+                    "detalle": "Desayuno. Y mañana libre para realizar actividades a elección, por la tarde lo pasaran a buscar por el hotel para realizar la visita a las bodegas. Visitarás dos bodegas, ya sea en la zona de Luján o bien de Maipú, donde podrás conocer el proceso de elaboración de vino industrial y artesanal. También visitarás la fábrica de aceite de oliva y la iglesia de la Carrodilla, donde se encuentra la virgen patrona de los viñedos.Las posibles bodegas a visitar son: Bodegas López, Bodega Vistandes, Bodega Dante Robino, Bodega Weinert o Cavas de don Arturo. Dependerá de la disponibilidad de cada una de ellas. Y también visitarás la aceitera PASRAI. La excursión tiene una duración de mediodía comenzando la misma alrededor de las 14.30 h y regresando por la tarde – noche al hotel para luego cenar y descansar."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "Mendoza / Bariloche",
+                    "subtitulo": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a San Carlos de Bariloche. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "Bariloche",
+                    "subtitulo": "Isla Victoria y Bosque de Arrayanes",
+                    "detalle": "Desayuno. Partiendo desde Puerto Pañuelo, tras una hora de navegación, se arriba a la península de Quetrihue, en donde se encuentra el legendario bosque de arrayanes. Ubicado dentro del Parque Nacional Los Arrayanes, los esperan 12 kilómetros de sendero con paisajes únicos. Luego de recorrer este escenario incomparable, se navega hacia Puerto Anchorena, en la Isla Victoria, donde encontrarás una flora de gran atractivo visual. Recorriendo los senderos de esta hermosa isla se llega hasta Playa del Toro, en donde se pueden observar las pinturas rupestres hechas por los pueblos originarios que habitaban en esta zona."
+                },
+                {
+                    "dia": 8,
+                    "titulo": "Bariloche",
+                    "subtitulo": "Circuito chico",
+                    "detalle": "Desayuno. El circuito chico es un recorrido de medio día permite conocer la ciudad y sus alrededores; consiste en visitar distintos puntos de la ciudad de Bariloche, entre ellos, la península de San Pedro y el Puerto Bueno, donde podrás disfrutar de un mirador y una gruta. Luego de recorrer la península, se arriba a la Villa Llao Llao, en el km 23. Allí encontrarás un mirador excepcional y otros grandes atractivos de la zona: el Hotel Llao Llao, con su imponente marco natural, el parque municipal Llao Llao, donde podrás realizar tranquilas caminatas por el bosque y la capilla San Eduardo. Muy cerca de ese lugar se encuentra Puerto Pañuelo, punto de partida de las excursiones lacustres. Nos detendremos en Cerro Campanario para subir con aerosillas hasta la cumbre y disfrutar de la mejor vista panorámica de la región, de 360 grados.Ya dejando atrás la península, en el km 33, el camino cruza el puente del arroyo Angostura. Desde este lugar parte un desvío que permite continuar hacia la zona de Bahía López, donde se imponen los paredones rocosos de los cerros López y Capilla"
+                },
+                {
+                    "dia": 9,
+                    "titulo": "Bariloche / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 10,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 13,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Calafate / Ushuaia ",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a El Calafate. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "El Calafate",
+                    "subtitulo": "Parque nacional los glaciares",
+                    "detalle": "Desayuno. Salida por la mañana hacia  la ruta que bordea el Lago Argentino hasta alcanzar el Parque Nacional Los Glaciares, el mismo debe su nombre a la presencia de numerosos glaciares que se originan en el gran Campo de Hielo Patagónico, (el manto de hielo más grande del mundo después de la Antártida) el cual ocupa casi la mitad del Parque. Continuando camino se llega a las pasarelas y mirador del Glaciar Perito Moreno. Se puede realizar en forma opcional el Safari Náutico, que proporciona al visitante, en una corta navegación, una increíble experiencia bordeando la misma pared de hielo del Glaciar (duración una hora). Almuerzo (no incluido) en la unidad turística y tiempo libre. Por la tarde regreso a El Calafate."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "El Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Día Libre para realizar excursiones opcionales. Te recomendamos una excursión a alguna de las típicas estancias como Nibepo Aike o Estancia Cristina."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "El Calafate / Ushuaia",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Ushuaia. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 7,
+                    "titulo": "Ushuaia",
+                    "subtitulo": "Parque nacional Tierra del Fuego",
+                    "detalle": "Desayuno. Por la mañana salida en excursión de medio día visitando el Parque Nacional Tierra del Fuego. Pasando por Río Pipo, Bahía Ensenada, Lago Roca, Laguna Verde, Laguna Negra, y zona de Lapataia. Dentro del Parque descubriremos los lugares más emblemáticos rodeados por bosques, montañas y paisajes sin igual. Visitaremos el Lago Roca o Acigami, un deslumbrante Lago de origen Glaciar, ubicado entre la frontera entre Argentina y Chile, en ese sitio realizaremos una caminata corta (trekking), bordeando el Lago y el Rio Lapataia. El último lugar para visitar, es hasta el final del camino la Bahía Lapataia, donde termina la Ruta Núm. 3 ruta panamericana. El lugar más Austral que podemos alcanzar juntos con nuestro guía, descubriremos todos los secretos del Parque, mientras disfrutamos la sensación de estar en el Fin del Mundo."
+                },
+                {
+                    "dia": 8,
+                    "titulo": "Ushuaia",
+                    "subtitulo": "Navegación Canal Beagle",
+                    "detalle": "Desayuno. Al embarcarse en este catamarán, se obtendrá una panorámica impagable de la ciudad y su puerto. Sus recorridos pueden abarcar: la isla de los pájaros y la lobería, hábitat de los lobos marinos; la pingüinera, donde se observará varios tipos de pingüinos y también nos acercamos al faro LES ECLAIREURS, más conocido como el Faro del fin del mundo, típica postal de Ushuaia, incluyendo las islas Bridge e Isla Karelo."
+                },
+                {
+                    "dia": 9,
+                    "titulo": "Ushuaia / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 10,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 14,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Calafate / El Chalten ",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece."
+                },
+                {
+                    "dia": 2,
+                    "titulo": "Buenos Aires",
+                    "subtitulo": "City tour",
+                    "detalle": "Desayuno. Nuestro city tour de medio dia ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango."
+                },
+                {
+                    "dia": 3,
+                    "titulo": "Buenos Aires / Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a El Calafate. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 4,
+                    "titulo": "El Calafate",
+                    "subtitulo": "Parque nacional los glaciares",
+                    "detalle": "Desayuno. Salida por la mañana hacia la ruta que bordea el Lago Argentino hasta alcanzar el Parque Nacional Los Glaciares, el mismo debe su nombre a la presencia de numerosos glaciares que se originan en el gran Campo de Hielo Patagónico, (el manto de hielo más grande del mundo después de la Antártida) el cual ocupa casi la mitad del Parque. Continuando camino se llega a las pasarelas y mirador del Glaciar Perito Moreno. Se puede realizar en forma opcional el Safari Náutico, que proporciona al visitante, en una corta navegación, una increíble experiencia bordeando la misma pared de hielo del Glaciar (duración una hora). Almuerzo (no incluido) en la unidad turística y tiempo libre. Por la tarde regreso a El Calafate. Para un tour de aventura se puede realizar el Big Ice o Minitrekking, los cuales permiten realizar una caminata sobre el glaciar."
+                },
+                {
+                    "dia": 5,
+                    "titulo": "El Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Día Libre para realizar excursiones opcionales. Te recomendamos una excursión a alguna de las típicas estancias como Nibepo Aike o Estancia Cristina."
+                },
+                {
+                    "dia": 6,
+                    "titulo": "El Calafate / El Chalten",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Por la mañana traslado por su cuenta a la terminal de bus de El Calafate para partir al El Chalten. Sugerimos acercase a la oficina de guardaparques para obtener información de horarios y actividades complementarias del destino"
+                },
+                {
+                    "dia": 7,
+                    "titulo": "El Chalten",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Día libre para actividades personales, recomendamos tomar el camino que lleva a los pies del Cerro Fitz Roy, el Cerro Torre y las numerosas agujas de granito que rodean a ambos. Desde el chalten también podremos conocer el glaciar Viedma, el más grande en extensión de nuestro país. También podemos hacer torres del Paine, estancias patagónicas, y alguna excursión de medio día como balcones del Calafate."
+                },
+                {
+                    "dia": 8,
+                    "titulo": "El Chalten / El Calafate",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. Dia libre. Por la tarde tomarás el bus de regreso a El Calafate a las 18 hs. Llegarás a Calafate por la noche y te trasladarás al Hotel."
+                },
+                {
+                    "dia": 9,
+                    "titulo": "Calafate / Buenos Aires",
+                    "subtitulo": "",
+                    "detalle": "Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre."
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "Buenos Aires",
+                    "detalle": "Desayuno. A la hora apropiada, traslado al Aeropuerto para embarcar en el vuelo con destino a"
+                }
+            ]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 2,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 3,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 4,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 5,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 6,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 8,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                }
+            ]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 2,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 3,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 4,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 5,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 6,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 8,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                }
+            ]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 2,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 3,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 4,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 5,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 6,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 8,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 11,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 12,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                }
+            ]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 2,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 3,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 4,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 5,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 6,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 8,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 11,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 12,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                }
+            ]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 2,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 3,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 4,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 5,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 6,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 8,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 11,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 12,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                }
+            ]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "",
+        "itinerario":
+            [
+                {
+                    "dia": 1,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 2,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 3,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 4,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 5,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 6,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 7,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 8,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 9,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 10,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 11,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                },
+                {
+                    "dia": 12,
+                    "titulo": "",
+                    "subtitulo": "",
+                    "detalle": ""
+                }
+            ]
+
+    }
+        
+]
